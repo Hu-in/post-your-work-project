@@ -20,3 +20,10 @@ Run the following command in the terminal:
 ```bash
 python bikeshare.py
 ``
+## Example Output
+The program prints summary statistics directly to the terminal based on user-selected filters.
+
+## Future Improvements
+- Add data visualizations
+- Support additional cities
+- Improve input validation
